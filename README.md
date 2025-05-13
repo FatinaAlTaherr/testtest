@@ -5,15 +5,8 @@
   <strong>Welcome to HopeConnect – Empowering Lives, One Child at a Time 💜</strong> &nbsp;<br>
   <a href="https://github.com/FatinaAlTaherr/HopeConnect.git"><strong>Check out the documents »</strong></a>
 </div>
-<br>
 <div align="center">
-  <p align="center">
-    <a href="https://drive.google.com/drive/folders/1AWzArSl1FAkkiuKn4r27Z8xAovgP5-EH?fbclid=IwZXh0bgNhZW0CMTAAAR2_vWKX6inDuGBlnd8AeOK912kWctbuVLYYCj_Z5rTkeQy57TPH_kKROzk_aem_ZmFrZWR1bW15MTZieXRlcw">👾 View Demo</a>
-  </p>
-</div>
-<br>
-<div align="center">
-  <img src="first.jpg" alt="Description of the image">
+  <img src="second.jpg" alt="Description of the image">
 </div>
 <br>
 <br>
