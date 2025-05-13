@@ -24,7 +24,7 @@
 
 
 <details>
-  <summary><h2>🌿 Table of Contents<h2\></summary>
+  <summary><h2>💜 Table of Contents<h2\></summary>
   <ol>
     <li><a href="#intro">Introduction (What's HopeConnect?)</a></li>
     <li><a href="#coref">Core Features</a></li>
@@ -52,7 +52,7 @@
 
 
 <a name="coref"></a>
-## 🌾 Core Features
+## 💜 Core Features
 <strong>1. Orphan Profiles & Sponsorships:</strong> Detailed profiles for each child including age, education, and health. Donors can sponsor children and receive updates on their progress, photos, and wellbeing. <br>
 <strong>2. Donation Management System:</strong> Supports various donation types—money, clothes, food, education materials—with dedicated categories like General Fund, Education Support, and Medical Aid. Includes integrated payment systems and donation tracking. <br>
 <strong>3. Volunteer & Service Matching:</strong> Enables volunteers to register and match with orphanages requesting services such as healthcare, mentoring, or teaching. <br>
@@ -69,7 +69,7 @@
 
  
 <a name="addf"></a>
-## 🐞 Additional Features
+## 💜 Additional Features
 <strong>1. Chat System: </strong>Events group chats enable volunteers and representatives to communicate within event-specific group chats in real-time , enhancing coordination and collaboration within the event community.<br>
 <strong>2. External API Integration:</strong> Leverages external APIs for data enrichment, location mapping, or medical resource validation to enhance service accuracy.<br>
 <strong>3. Security: </strong>Privacy, security and encryption are provided as all passwords are encrypted. For more details visit our <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki.</a> <br>
@@ -83,7 +83,7 @@
 
 
 <a name="roles"></a>
-## 🕵️‍♂️ Roles
+## 💜 Roles
 Roles are actually like digital security guards. They check user IDs and say "yes" or "no" to some actions, like deleting gardens or viewing other people's stuff. This keeps everyone safe and in their own areas of the app. In this project, we implemented the following roles:
 * <strong>Admin:</strong> Full access to the system. Admins can manage users, orphanages, campaigns, donations, and approve or reject organization registrations. They oversee the platform’s transparency, security, and compliance.<br>
 * <strong>Donor:</strong> Can browse orphan profiles, sponsor children, donate to specific causes (education, medical, emergency), and view the impact of their contributions through reports and dashboards.<br>
@@ -97,7 +97,7 @@ Roles are actually like digital security guards. They check user IDs and say "ye
 
  
 <a name="bw"></a>
-## 🏡 Built With
+## 💜 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
 * [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
@@ -112,7 +112,7 @@ Roles are actually like digital security guards. They check user IDs and say "ye
 
 
 <a name="gs"></a>
-## 🚀 Getting Started
+## 💜 Getting Started
 ### ⚙️ Running the project
 #### To get started with the project:
 ##### 1. Clone the repository:
@@ -139,7 +139,7 @@ Access the Google Cloud SQL instance and set up the database configurations in `
 
 
 <a name="API"></a>
-## 📄 API Documentation
+## 💜 API Documentation
 The API is comprehensively documented using Postman. Access the documentation by navigating to <a href="https://documenter.getpostman.com/view/36132853/2sA3XPC2vz?fbclid=IwZXh0bgNhZW0CMTAAAR0tcu44KIqRbp8HjjfAHRF1QnBkxzFu8aDxbYGTza4pRAlS5zytNN74sfM_aem_AWDZfjoZP2dm1OYWxrCSFApKQxj7LCv7K9Fj4wvIIK0pLRxTInh2JZzl8CrIi7Wgra5mWrNom5ehE6UdqLtPbkHe"><strong>API documentation</strong></a> once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
 <br>
@@ -149,7 +149,7 @@ The API is comprehensively documented using Postman. Access the documentation by
 
 
 <a name="demo"></a>
-## 🎥 Demo
+## 💜 Demo
 Check out my project demo to see it in action! Click the link here to experience the magic firsthand. <a href="https://drive.google.com/drive/folders/1AWzArSl1FAkkiuKn4r27Z8xAovgP5-EH?fbclid=IwZXh0bgNhZW0CMTAAAR2_vWKX6inDuGBlnd8AeOK912kWctbuVLYYCj_Z5rTkeQy57TPH_kKROzk_aem_ZmFrZWR1bW15MTZieXRlcw">🚀 View Demo</a>
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
@@ -159,7 +159,7 @@ Check out my project demo to see it in action! Click the link here to experience
 
 
 <a name="contribution"></a>
-## :wave: Contributing 
+## 💜 Contributing 
 <p align="right"> <a href="https://github.com/FatinaAlTaherr/HopeConnect/graphs/contributors"><img src="https://img.shields.io/github/contributors/FatinaAlTaherr/HopeConnect" alt="contributors" /></a> </p>
 <p align="center"><a href="https://github.com/FatinaAlTaherr/HopeConnect/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FatinaAlTaherr/HopeConnect" />
@@ -171,7 +171,7 @@ Check out my project demo to see it in action! Click the link here to experience
 
 
 <a name="contact"></a>
-## ☎️ Contact
+## 💜 Contact
 
 * Fatina Al Taher - Fatina@gmail.com
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
