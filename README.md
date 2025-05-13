@@ -9,7 +9,13 @@
 
 </div>
 <br>
+<div align="center">
+
+<p>Connecting donors, sponsors, and volunteers with orphanages in Gaza to build a future of hope, care, and opportunity. 💜🌍🤝</p>
+<br>
+
   <a href="https://github.com/FatinaAlTaherr/HopeConnect.git"><strong>Check out the documents »</strong></a>
+</div>
 
 <br>
 
