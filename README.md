@@ -1,9 +1,8 @@
 <a name="readme-top"></a>
-<div align="center">
   <div align="center">
   <img src="fourth.jpg" alt="Description of the image">
-</div>
-<br>
+    <br>
+
   <h1>HopeConnect -🇵🇸</h1>
   <strong>Welcome to HopeConnect – Empowering Lives, One Child at a Time 💜</strong> &nbsp;<br>
 </div>
