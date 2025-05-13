@@ -2,13 +2,11 @@
 <div align="center">
   <img src="fourth.jpg" alt="Description of the image">
     <br>
-
   <h1>HopeConnect -🇵🇸</h1>
   <strong>Welcome to HopeConnect – Empowering Lives, One Child at a Time 💜</strong> &nbsp;<br>
-</div>
-<br>
-<div align="center">
+  <br>
   <img src="third.jpg" alt="Description of the image">
+
 </div>
 <br>
   <a href="https://github.com/FatinaAlTaherr/HopeConnect.git"><strong>Check out the documents »</strong></a>
