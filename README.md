@@ -1,15 +1,19 @@
 <a name="readme-top"></a>
 <div align="center">
-  <br>
+  <div align="center">
+  <img src="fourth.jpg" alt="Description of the image">
+</div>
+<br>
   <h1>HopeConnect -🇵🇸</h1>
   <strong>Welcome to HopeConnect – Empowering Lives, One Child at a Time 💜</strong> &nbsp;<br>
-  <a href="https://github.com/FatinaAlTaherr/HopeConnect.git"><strong>Check out the documents »</strong></a>
 </div>
 <br>
 <div align="center">
-  <img src="second.jpg" alt="Description of the image">
+  <img src="third.jpg" alt="Description of the image">
 </div>
 <br>
+  <a href="https://github.com/FatinaAlTaherr/HopeConnect.git"><strong>Check out the documents »</strong></a>
+
 <br>
 
 
