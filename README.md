@@ -97,8 +97,7 @@ Roles are actually like digital security guards. They check user IDs and say "ye
 <a name="bw"></a>
 ## 💜 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
-* [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
-* [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
+* [![MySQL][MySQL]][MySQLURL] <br>A reliable, open-source relational database management system commonly used for storing and managing data in web applications.
 * [![Docker][Docker]][DockerURL] <br>A platform for building, sharing, and running applications in containers.
 * [![Postman][Postman]][PostmanURL] <br>A collaboration platform for designing, testing, and documenting APIs.
 * [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
@@ -117,19 +116,40 @@ Roles are actually like digital security guards. They check user IDs and say "ye
 > [![Github][Github]][wewe]
 >
 > ```sh
-> git clone https://github.com/Mohammad-Aker/GreenThumb
+> git clone https://github.com/FatinaAlTaherr/HopeConnect.git
 > ```
-##### 2. Configure the Database:
-Access the Google Cloud SQL instance and set up the database configurations in `application.properties`.
-##### 3. Run the Backend:
+##### 2. Install Dependencies
+Make sure you have Maven installed. Run the following command to install the necessary dependencies:
+>
+> ```sh
+> mvn clean install
+> ```
+##### 3. Create The Database:
+* Make sure MySQL is installed and running on your local machine.
+* Create a new database for the project:
+>
+> ```sh
+> CREATE DATABASE hopeconnect;
+> ```
+* Update the application.properties or application.yml file in the src/main/resources directory with your MySQL database credentials (username and password).
+>
+> ```sh
+> spring.datasource.url=jdbc:mysql://localhost:3306/hopeconnect
+> spring.datasource.username=your_mysql_username
+> spring.datasource.password=your_mysql_password
+> ```
+##### 4. Run The Application:
 >
 > ```sh
 > mvn spring-boot:run
 > ```
-##### 4. Setup RabbitMQ:
-* Ensure RabbitMQ server is running.
-* Configure RabbitMQ settings in `application.properties`.
+<br>
+<br>
+<br>
 
+
+
+ <a name="coref"></a>
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
@@ -138,7 +158,7 @@ Access the Google Cloud SQL instance and set up the database configurations in `
 
 <a name="API"></a>
 ## 💜 API Documentation
-The API is comprehensively documented using Postman. Access the documentation by navigating to <a href="https://documenter.getpostman.com/view/36132853/2sA3XPC2vz?fbclid=IwZXh0bgNhZW0CMTAAAR0tcu44KIqRbp8HjjfAHRF1QnBkxzFu8aDxbYGTza4pRAlS5zytNN74sfM_aem_AWDZfjoZP2dm1OYWxrCSFApKQxj7LCv7K9Fj4wvIIK0pLRxTInh2JZzl8CrIi7Wgra5mWrNom5ehE6UdqLtPbkHe"><strong>API documentation</strong></a> once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
+The API is documented using Postman. Access the documentation by navigating to <a href="https://documenter.getpostman.com/view/36132853/2sA3XPC2vz?fbclid=IwZXh0bgNhZW0CMTAAAR0tcu44KIqRbp8HjjfAHRF1QnBkxzFu8aDxbYGTza4pRAlS5zytNN74sfM_aem_AWDZfjoZP2dm1OYWxrCSFApKQxj7LCv7K9Fj4wvIIK0pLRxTInh2JZzl8CrIi7Wgra5mWrNom5ehE6UdqLtPbkHe"><strong>API documentation</strong></a> once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
@@ -211,6 +231,6 @@ Check out my project demo to see it in action! Click the link here to experience
 [PostmanURL]: https://www.postman.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[wewe]: https://github.com/Mohammad-Aker/GreenThumb
+[wewe]: https://github.com/FatinaAlTaherr/HopeConnect.git
 [JQuery-url]: https://jquery.com 
 
