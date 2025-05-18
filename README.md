@@ -158,7 +158,7 @@ Make sure you have Maven installed. Run the following command to install the nec
 
 <a name="API"></a>
 ## 💜 API Documentation
-The API is documented using Postman. Access the documentation by navigating to <a href="https://documenter.getpostman.com/view/36132853/2sA3XPC2vz?fbclid=IwZXh0bgNhZW0CMTAAAR0tcu44KIqRbp8HjjfAHRF1QnBkxzFu8aDxbYGTza4pRAlS5zytNN74sfM_aem_AWDZfjoZP2dm1OYWxrCSFApKQxj7LCv7K9Fj4wvIIK0pLRxTInh2JZzl8CrIi7Wgra5mWrNom5ehE6UdqLtPbkHe"><strong>API documentation</strong></a> once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
+The API is documented using Postman. Access the documentation by navigating to <a href=""><strong>API documentation</strong></a> once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
@@ -168,7 +168,7 @@ The API is documented using Postman. Access the documentation by navigating to <
 
 <a name="demo"></a>
 ## 💜 Demo
-Check out my project demo to see it in action! Click the link here to experience the magic firsthand. <a href="https://drive.google.com/drive/folders/1AWzArSl1FAkkiuKn4r27Z8xAovgP5-EH?fbclid=IwZXh0bgNhZW0CMTAAAR2_vWKX6inDuGBlnd8AeOK912kWctbuVLYYCj_Z5rTkeQy57TPH_kKROzk_aem_ZmFrZWR1bW15MTZieXRlcw">🚀 View Demo</a>
+Check out my project demo to see it in action! Click the link here to experience the magic firsthand. <a href="">🚀 View Demo</a>
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
@@ -190,7 +190,10 @@ Check out my project demo to see it in action! Click the link here to experience
 
 <a name="contact"></a>
 ## 💜 Contact
-
+<p align="right"> <a href="https://github.com/FatinaAlTaherr/HopeConnect/graphs/contributors"><img src="https://img.shields.io/github/contributors/FatinaAlTaherr/HopeConnect" alt="contributors" /></a> </p>
+<p align="center"><a href="https://github.com/FatinaAlTaherr/HopeConnect/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FatinaAlTaherr/HopeConnect" />
+</a> </p>
 * Fatina Al Taher - Fatina@gmail.com
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 
